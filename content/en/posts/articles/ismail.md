@@ -1,5 +1,5 @@
 ---
-date: 2023-16-14
+date: 2023-12-18
 draft: false
 title: Story of Ismail
 author: Khaid Ansari
@@ -14,9 +14,9 @@ url: ismail.html
 ---
 ## Ismail Family
 
-Meet the OG prophet, Abraham, a.k.a Ibrahim or Ibraheem, the pioneer prophet in the Quranic saga. His father's name is Azar. He has three children named Ismael, Ishaaq, and Yaqub. All three kids are considered prophets in the Quran.
+Meet the prophet, Abraham, a.k.a Ibrahim or Ibraheem, the pioneer prophet in the Quranic saga. His father's name is Azar. He has three children named Ismael, Ishaaq, and Yaqub. All three kids are considered prophets in the Quran.
 
-Prophet Ismael goes by Ismail, Ishmael, and Ismaeil. He's the first son of Ibrahim, also known as Ibrahem, Abraham, and Ibraheem. The Quran talks about Ibrahim's wife but doesn't mention her name. Some traditions say it's Sarah or Sara or Sarai, but that's just a story and isn't confirmed by the Quran.
+Prophet Ismael goes by Ismail, Ishmael, and Ismaeil. He's the first son of Ibrahim. The Quran talks about Ibrahim's wife but doesn't mention her name. Some traditions say it's Sarah or Sara or Sarai, but that's just a story and isn't confirmed by the Quran.
 
 Ibrahim has two more sons. His second son, Ishaq, is also known as Isaac or Ishaaq. The third son is Yaqoob, also called Jacob. Notably, Jacob is different from Israel, mentioned separately in the Quran as a truthful person. Ismael is established as the firstborn. In the Quran, Ibrahim's wife is described as 'barren' (Aqeem), meaning she couldn't have kids. It's also clarified that she was 'old' (Ajoz), suggesting an inability to have children due to age.
 
@@ -25,18 +25,25 @@ Ibrahim has two more sons. His second son, Ishaq, is also known as Isaac or Isha
 In Chapter Two of the Quran, Ibrahim and Ismail are at the House of Allah, joining together in a heartfelt prayer. What makes this supplication significant is that it's in the plural form, emphasizing their unity in asking for a Rasool (Messenger) from their Muslim descendants. It's a powerful moment symbolizing their anticipation of a special Messenger coming from their own family, a theme that resonates throughout the Quran.
 
 > _{{< qurantext chapter="2" verse=124 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=125 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=126 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=127 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=128 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=129 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=130 en="true" >}}_
+
 > _{{< qurantext chapter="2" verse=131 en="true" >}}_
 
 
 ### Ibrahim and Ismael story of Sacrifice:
 
-This story is in Quran and according the the story no one was sacrificed. The story of sacrifice has more to do with the separation of father and his beloved son Ismael.
+This story is in Quran and according the story no one was sacrificed. The story of sacrifice has more to do with the separation of father and his beloved son Ismael.
 The dream of Ibrahim in the Quran 3:102 is about Allah asking him to cast away his son (Ismael) and leave him in Makkah. It is a great trial of separation between the beloved father and the son.
 
 Once Ibrahim understood the dream, where Allah asked him to cast away his son and leave him in Makkah, he told his son (Ismael) and asked for his opinion. The son replied, 'O father, do as you see fit; you will find me among the ones who persevere.'
