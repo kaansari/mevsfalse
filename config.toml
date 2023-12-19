@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mevsfalse.com/'
 
 title = 'MeVsFalse'
 
@@ -12,7 +12,7 @@ defaultContentLanguage = "en-gb"
 
 # To enable Google Analytics 4 (gtag.js) provide G-MEASUREMENT_ID below.
 # To disable Google Analytics, simply leave the field empty or remove the next line
-googleAnalytics = '' # G-MEASUREMENT_ID
+googleAnalytics = 'G-CS32MPF86L'
 
 # Enable emojis globally
 enableEmoji = true
@@ -53,10 +53,15 @@ disqusShortname = ''
     url = '/posts/'
     weight = 20
   [[Languages.en-gb.menu.main]]
+    pageRef="categories"
+    name = 'Themes'
+    url = '/categories/'
+    weight = 30
+  [[Languages.en-gb.menu.main]]
     pageRef="about"
     name = 'About'
     url = '/about/'
-    weight = 30
+    weight = 40
 
 [Languages.en-gb.params]
   sitename = "MeVsFalse"

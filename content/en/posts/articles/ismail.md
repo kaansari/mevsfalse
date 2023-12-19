@@ -1,5 +1,5 @@
 ---
-date: 2023-11-14
+date: 2023-16-14
 draft: false
 title: Story of Ismail
 author: Khaid Ansari
@@ -16,7 +16,7 @@ url: ismail.html
 
 Meet the OG prophet, Abraham, a.k.a Ibrahim or Ibraheem, the pioneer prophet in the Quranic saga. His father's name is Azar. He has three children named Ismael, Ishaaq, and Yaqub. All three kids are considered prophets in the Quran.
 
-Prophet Ismael goes by Ismail, Ishmael, and Ismail. He's the first son of Ibrahim, also known as Ibrahem, Abraham, and Ibraheem. The Quran talks about Ibrahim's wife but doesn't mention her name. Some traditions say it's Sarah or Sara or Sarai, but that's just a story and isn't confirmed by the Quran.
+Prophet Ismael goes by Ismail, Ishmael, and Ismaeil. He's the first son of Ibrahim, also known as Ibrahem, Abraham, and Ibraheem. The Quran talks about Ibrahim's wife but doesn't mention her name. Some traditions say it's Sarah or Sara or Sarai, but that's just a story and isn't confirmed by the Quran.
 
 Ibrahim has two more sons. His second son, Ishaq, is also known as Isaac or Ishaaq. The third son is Yaqoob, also called Jacob. Notably, Jacob is different from Israel, mentioned separately in the Quran as a truthful person. Ismael is established as the firstborn. In the Quran, Ibrahim's wife is described as 'barren' (Aqeem), meaning she couldn't have kids. It's also clarified that she was 'old' (Ajoz), suggesting an inability to have children due to age.
 
