@@ -1,0 +1,21 @@
+{{ $chapter := .Get "chapter" }}
+{{ $startVerse := .Get "startVerse" | default "1" | int }}
+{{ $endVerse := .Get "endVerse" | default "1" | int }}
+
+{{ with index .Site.Data.easyquran $chapter }}
+
+  {{ range $verseNumber, $verse := .verses }}
+    {{ $verseInt := $verseNumber | int }}
+    {{ if and (ge $verseInt $startVerse) (le $verseInt $endVerse) }}
+
+        {{ with $verse }}
+         {{ .text }}</p>
+          {{ .ar }}</p>
+        {{ end }}
+      
+    {{ end }}
+  {{ end }}
+{{ else }}
+  <p>Chapter not found.</p>
+{{ end }}
+

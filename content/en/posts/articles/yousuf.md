@@ -16,7 +16,7 @@ url: yusuf.html
 ## Introduction
 
 
-{{< easyquran chapter="113" start=2 end=5 >}}
+{{< easyquranverses chapter="113" startVerse="1" endVerse="3" >}}
 
 
 

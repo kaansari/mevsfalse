@@ -1,28 +1,79 @@
 {
-    "113": {
+  "12": {
+      "title": "Yusuf",
+      "url": "/yusuf",
+      "description": "Chapter 12 of the Quran",
+      "verses": {
+          "1": {
+              "ar": "الرَّ حْمَٰنِ",
+              "text": "Alif, Lam, Ra. These are the verses of the clear Book."
+          },
+          "2": {
+              "ar": "إِنَّا أَنزَلْنَاهُ قُرْآنًا عَرَبِيًّا لَّعَلَّكُمْ تَعْقِلُونَ",
+              "text": "Indeed, We have sent it down as an Arabic Quran that you might understand."
+          },
+          "111": {
+              "ar": "لَقَدْ كَانَ فِي يُوسُفَ وَإِخْوَتِهِ آيَاتٌ لِّلسَّائِلِينَ",
+              "text": "There was certainly in Joseph and his brothers signs for those who ask."
+          }
+      }
+  },
+  "113": {
       "title": "Al-Falaq",
       "url": "/al-falaq",
       "description": "Chapter 113 of the Quran",
-      "verses": [
-        {"verse": 1, "text": "Say, 'I seek refuge with the Lord of the morning light,'"},
-        {"verse": 2, "text": "from the harm of what He has created,"},
-        {"verse": 3, "text": "and from the darkness when it gathers,"},
-        {"verse": 4, "text": "and from the harm of those who blow on knots,"},
-        {"verse": 5, "text": "and from the harm of an envier when he envies."}
-      ]
-    },
-    "114": {
+      "verses": {
+          "1": {
+              "ar": "قُلْ أَعُوذُ بِرَبِّ الْفَلَقِ",
+              "text": "Say, 'I seek refuge with the Lord of the morning light,'"
+          },
+          "2": {
+              "ar": "مِن شَرِّ مَا خَلَقَ",
+              "text": "from the harm of what He has created,"
+          },
+          "3": {
+              "ar": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+              "text": "and from the darkness when it gathers,"
+          },
+          "4": {
+              "ar": "وَمِن شَرِّ النَّفَّاثَاتِ فِي الْعُقَدِ",
+              "text": "and from the harm of those who blow on knots,"
+          },
+          "5": {
+              "ar": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+              "text": "and from the harm of an envier when he envies."
+          }
+      }
+  },
+  "114": {
       "title": "An-Nas",
       "url": "/an-nas",
       "description": "Chapter 114 of the Quran",
-      "verses": [
-        {"verse": 1, "text": "Say, 'I seek refuge with the Lord of mankind,'"},
-        {"verse": 2, "text": "The King of mankind,"},
-        {"verse": 3, "text": "The God of mankind,"},
-        {"verse": 4, "text": "from the evil of the whisperer who withdraws,"},
-        {"verse": 5, "text": "who whispers in the chests of mankind,"},
-        {"verse": 6, "text": "among the jinn and among mankind."}
-      ]
-    }
+      "verses": {
+          "1": {
+              "ar": "قُلْ أَعُوذُ بِرَبِّ النَّاسِ",
+              "text": "Say, 'I seek refuge with the Lord of mankind,'"
+          },
+          "2": {
+              "ar": "مَلِكِ النَّاسِ",
+              "text": "The King of mankind,"
+          },
+          "3": {
+              "ar": "إِلَٰهِ النَّاسِ",
+              "text": "The God of mankind,"
+          },
+          "4": {
+              "ar": "مِن شَرِّ الْوَسْوَاسِ الْخَنَّاسِ",
+              "text": "from the evil of the whisperer who withdraws,"
+          },
+          "5": {
+              "ar": "الَّذِي يُوَسْوِسُ فِي صُدُورِ النَّاسِ",
+              "text": "who whispers in the chests of mankind,"
+          },
+          "6": {
+              "ar": "مِنَ الْجِنَّةِ وَالنَّاسِ",
+              "text": "among the jinn and among mankind."
+          }
+      }
   }
-  
+}
