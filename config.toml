@@ -20,7 +20,7 @@ ignoreErrors = ["additional-script-loading-error"] # ignore error of loading add
 
 # To enable Disqus comments, provide Disqus Shortname below.
 # To disable Disqus comments, simply leave the field empty or remove the next line
-disqusShortname = ''
+disqusShortname = 'mevsfalse'
 # set markup.highlight.noClasses=false to enable code highlight
 [markup]
   [markup.highlight]
@@ -91,7 +91,7 @@ disqusShortname = ''
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
   intro = "MeVsFalse"
   name = "MeVsFalse"
-  description = "You've arrived in my zone! It's all about my words, epic Quran translations, and the 411 on everything. Got questions? Fire away and let's vibe in the land of thoughts together! "
+  description = "You've arrived in my zone! It's all about my words, epic Quran translations, and would love to hear from you. Got questions? Fire away and let's discuss thoughts together!"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]

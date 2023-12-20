@@ -8034,7 +8034,7 @@
       "chapter": 12,
       "verse": 4,
       "text": "إِذۡ قَالَ يُوسُفُ لِأَبِيهِ يَـٰٓأَبَتِ إِنِّي رَأَيۡتُ أَحَدَ عَشَرَ كَوۡكَبٗا وَٱلشَّمۡسَ وَٱلۡقَمَرَ رَأَيۡتُهُمۡ لِي سَٰجِدِينَ",
-      "en":"Listen up (Yaqoob or Isaac)! Joseph told his father, 'Dad, I'm calling it – eleven stars, the sun, and the moon are all gonna be vibin' with me. Translation? Those high-flyers who are lost? I'm about to steer them right and have them in my orbit. Bet on it, father!"
+      "en":"Listen up (Yaqoob or Jacob)! Joseph told his father, 'Dad, I'm calling it – eleven stars, the sun, and the moon are all gonna be vibin' with me. Translation? Those high-flyers who are lost? I'm about to steer them right and have them in my orbit. Bet on it, father!"
     },
     {
       "chapter": 12,
@@ -8109,39 +8109,44 @@
     {
       "chapter": 12,
       "verse": 16,
-      "text": "وَجَآءُوٓ أَبَاهُمۡ عِشَآءٗ يَبۡكُونَ"
+      "text": "وَجَآءُوٓ أَبَاهُمۡ عِشَآءٗ يَبۡكُونَ",
+      "en": "Later, they came back to their dad in the evening, crying."
     },
-    {
+    { 
       "chapter": 12,
       "verse": 17,
-      "text": "قَالُواْ يَـٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ"
-    },
+      "text": "قَالُواْ يَـٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ",
+      "en":  
+      "They were really upset and said, 'O our father, we were out having fun and left Joseph with our stuff. A wolf came and ate him! But you won't believe us, no matter how honest we are.'"    },
     {
       "chapter": 12,
       "verse": 18,
-      "text": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٖ كَذِبٖۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ"
+      "text": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٖ كَذِبٖۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "en": "They brought his shirt stained with fake blood. He said, 'No! You did something really wrong. So, I can only endure with beautiful patience! I seek Allah’s help against the lie you came up with.'"
     },
     {
       "chapter": 12,
       "verse": 19,
-      "text": "وَجَآءَتۡ سَيَّارَةٞ فَأَرۡسَلُواْ وَارِدَهُمۡ فَأَدۡلَىٰ دَلۡوَهُۥۖ قَالَ يَٰبُشۡرَىٰ هَٰذَا غُلَٰمٞۚ وَأَسَرُّوهُ بِضَٰعَةٗۚ وَٱللَّهُ عَلِيمُۢ بِمَا يَعۡمَلُونَ"
+      "text": "وَجَآءَتۡ سَيَّارَةٞ فَأَرۡسَلُواْ وَارِدَهُمۡ فَأَدۡلَىٰ دَلۡوَهُۥۖ قَالَ يَٰبُشۡرَىٰ هَٰذَا غُلَٰمٞۚ وَأَسَرُّوهُ بِضَٰعَةٗۚ وَٱللَّهُ عَلِيمُۢ بِمَا يَعۡمَلُونَ",
+      "en": "A caravan arrived, and they sent their scout to negotiate. As he approached, he asked, 'Any news?' Those who were part of the plan said, 'There is the boy.' They hid him after making the deal, pretending to treat him as part of their goods, while Allah was well aware of their actions."
     },
     {
       "chapter": 12,
       "verse": 20,
       "text": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ ٱلزَّـٰهِدِينَ",
-      "en":"They later traded him off for chump change, just a few darahim – like, they were desperate to ditch the dude."
+      "en":"They later traded him off for chump change, just a few darahim – like, they were desperate to ditch the boy."
     },
     {
       "chapter": 12,
       "verse": 21,
-      "text": "وَقَالَ ٱلَّذِي ٱشۡتَرَىٰهُ مِن مِّصۡرَ لِٱمۡرَأَتِهِۦٓ أَكۡرِمِي مَثۡوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗاۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ وَلِنُعَلِّمَهُۥ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمۡرِهِۦ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ"
+      "text": "وَقَالَ ٱلَّذِي ٱشۡتَرَىٰهُ مِن مِّصۡرَ لِٱمۡرَأَتِهِۦٓ أَكۡرِمِي مَثۡوَىٰهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗاۚ وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ وَلِنُعَلِّمَهُۥ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِۚ وَٱللَّهُ غَالِبٌ عَلَىٰٓ أَمۡرِهِۦ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+      "en":"The man who was a vazir in Egypt and who bought him told his wife, 'Take good care of him; he might help us, or we could even adopt him as our son.' So, we arranged for Joseph to settle in that land and learn important things. Allah has the power to make His plans work, even though many people may not understand."
     },
     {
       "chapter": 12,
       "verse": 22,
-      "text": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗاۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ"
-    },
+      "text": "وَلَمَّا بَلَغَ أَشُدَّهُۥٓ ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗاۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+     "en": "After Joseph refused to take part in her evil plan, both of them rushed to tell the King their side, each trying to get ahead of the other. She falsely accused Joseph, damaging his authority from behind. When they reached the king, they found the lady's husband already there, seemingly involved in his wife's evil plan, blocking their access to the king. Seeing him, she said, 'What should be the punishment for someone with bad intentions towards your wife and trying to damage her, except that he should be imprisoned or subjected to painful punishment?'"    },
     {
       "chapter": 12,
       "verse": 23,
@@ -8150,32 +8155,42 @@
     {
       "chapter": 12,
       "verse": 24,
-      "text": "وَلَقَدۡ هَمَّتۡ بِهِۦۖ وَهَمَّ بِهَا لَوۡلَآ أَن رَّءَا بُرۡهَٰنَ رَبِّهِۦۚ كَذَٰلِكَ لِنَصۡرِفَ عَنۡهُ ٱلسُّوٓءَ وَٱلۡفَحۡشَآءَۚ إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُخۡلَصِينَ"
+      "text": "وَلَقَدۡ هَمَّتۡ بِهِۦۖ وَهَمَّ بِهَا لَوۡلَآ أَن رَّءَا بُرۡهَٰنَ رَبِّهِۦۚ كَذَٰلِكَ لِنَصۡرِفَ عَنۡهُ ٱلسُّوٓءَ وَٱلۡفَحۡشَآءَۚ إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُخۡلَصِينَ",
+      "en":
+      "He (Joseph) said, 'It was she who tried to tempt and lead me.' And a witness from her family observed that if he himself overstepped his authority, then she is telling the truth, and he is lying."
     },
     {
       "chapter": 12,
       "verse": 25,
-      "text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ"
-    },
+      "text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ",
+      "en": "After Joseph refused to take part in her evil plan, both of them rushed to tell the King their side, each trying to get ahead of the other. She falsely accused Joseph, damaging his authority from behind. When they reached the king, they found the lady's husband already there, seemingly involved in his wife's evil plan, blocking their access to the king. Seeing him, she said, 'What should be the punishment for someone with bad intentions towards your wife and trying to damage her, except that he should be imprisoned or subjected to painful punishment?'"
+          },
     {
       "chapter": 12,
       "verse": 26,
-      "text": "قَالَ هِيَ رَٰوَدَتۡنِي عَن نَّفۡسِيۚ وَشَهِدَ شَاهِدٞ مِّنۡ أَهۡلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٖ فَصَدَقَتۡ وَهُوَ مِنَ ٱلۡكَٰذِبِينَ"
+      "text": "قَالَ هِيَ رَٰوَدَتۡنِي عَن نَّفۡسِيۚ وَشَهِدَ شَاهِدٞ مِّنۡ أَهۡلِهَآ إِن كَانَ قَمِيصُهُۥ قُدَّ مِن قُبُلٖ فَصَدَقَتۡ وَهُوَ مِنَ ٱلۡكَٰذِبِينَ",
+      "en":"He (Joseph) said, 'It was she who tried to tempt and lead me.' And a witness from her family observed that if he himself overstepped his authority, then she is telling the truth, and he is lying."
+
     },
     {
       "chapter": 12,
       "verse": 27,
-      "text": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ"
+      "text": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّـٰدِقِينَ",
+      "en":"But if his reputation and authority have been damaged from behind, then she has lied, and he is truthful."
+
     },
     {
       "chapter": 12,
       "verse": 28,
-      "text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ"
+      "text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ",
+      "en": "So when he, the other guy, saw Joseph's authority and reputation being attacked from behind, he said, 'Surely, this is one of the tricks of you women; your tricks are indeed great.' Meaning, women use schemes involving sex, money, and power to deceive men."
+ 
     },
     {
       "chapter": 12,
       "verse": 29,
-      "text": "يُوسُفُ أَعۡرِضۡ عَنۡ هَٰذَاۚ وَٱسۡتَغۡفِرِي لِذَنۢبِكِۖ إِنَّكِ كُنتِ مِنَ ٱلۡخَاطِـِٔينَ"
+      "text": "يُوسُفُ أَعۡرِضۡ عَنۡ هَٰذَاۚ وَٱسۡتَغۡفِرِي لِذَنۢبِكِۖ إِنَّكِ كُنتِ مِنَ ٱلۡخَاطِـِٔينَ",
+      "en": "O Joseph, overlook this. And you, woman, seek forgiveness for your sin, for indeed, you are the one at fault."
     },
     {
       "chapter": 12,

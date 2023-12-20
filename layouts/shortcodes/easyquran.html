@@ -1,0 +1,13 @@
+{{ $easyquran := .Site.Data.easyquran }}
+{{ $chapterNumber := .Get "chapter" }}
+{{ with index $easyquran $chapterNumber }}
+  <div class="quran-chapter">
+    <h2>{{ .title }}</h2>
+    <p>{{ .description }}</p>
+    {{ range .verses }}
+     {{ .text }}</p>
+    {{ end }}
+  </div>
+{{ else }}
+  <p>Chapter not found.</p>
+{{ end }}

@@ -1,0 +1,28 @@
+{
+    "113": {
+      "title": "Al-Falaq",
+      "url": "/al-falaq",
+      "description": "Chapter 113 of the Quran",
+      "verses": [
+        {"verse": 1, "text": "Say, 'I seek refuge with the Lord of the morning light,'"},
+        {"verse": 2, "text": "from the harm of what He has created,"},
+        {"verse": 3, "text": "and from the darkness when it gathers,"},
+        {"verse": 4, "text": "and from the harm of those who blow on knots,"},
+        {"verse": 5, "text": "and from the harm of an envier when he envies."}
+      ]
+    },
+    "114": {
+      "title": "An-Nas",
+      "url": "/an-nas",
+      "description": "Chapter 114 of the Quran",
+      "verses": [
+        {"verse": 1, "text": "Say, 'I seek refuge with the Lord of mankind,'"},
+        {"verse": 2, "text": "The King of mankind,"},
+        {"verse": 3, "text": "The God of mankind,"},
+        {"verse": 4, "text": "from the evil of the whisperer who withdraws,"},
+        {"verse": 5, "text": "who whispers in the chests of mankind,"},
+        {"verse": 6, "text": "among the jinn and among mankind."}
+      ]
+    }
+  }
+  
