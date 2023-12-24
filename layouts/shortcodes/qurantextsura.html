@@ -1,0 +1,11 @@
+{{- $jsonPath := "data/quran.json" -}}
+{{- $chapter := .Get "chapter" | default "1" -}}
+{{- $verseIndex := .Get "verse" | default 1 -}}
+{{- $translate := .Get "en" | default false -}}
+
+{{- $jsonData := getJSON $jsonPath -}}
+{{- with index $jsonData $chapter -}}
+{{ range .  }}
+{{ .chapter }}:{{ .verse }} {{ if $translate}}{{.en}}{{end }}
+{{ end }}
+{{- end }}
