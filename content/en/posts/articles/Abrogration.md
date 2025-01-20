@@ -10,7 +10,7 @@ featured: true
 weight: 1
 noTitle: false
 thumbnail : 
-url: darham.html
+url: abrogation.html
 ---
 
 ## Introduction
