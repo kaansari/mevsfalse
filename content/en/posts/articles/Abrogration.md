@@ -82,131 +82,76 @@ Note: I disagree with him on this abrogation, and I think these two verses read 
 
 > _{{< qurantext chapter="73" verse=20 en="true" >}}_
 
+## False Claims of Abrogated or Missing Verses
 
-## False Claims of Abrogations of missing verses
-
-The hadith about the goat eating the verses of the Qur'an related to breastfeeding (known as **Ayat al-Rada'a**) is a well-known narration discussed in Islamic scholarship, though it is subject to considerable controversy and scrutiny. The narration specifically involves a claim that certain verses of the Qur'an, related to breastfeeding an adult, were once part of the Qur'an but were eaten by a goat.
-
-(from **Sunan Ibn Majah**, Hadith 1944):
-**حَدَّثَنَا أَبُو بَكْرٍ وَعَبْدُ الرَّحْمَنِ ابْنُ أَصْبَغٍ، قَالا حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، حَدَّثَنَا هُشَيْمٌ، عَنْ حُسَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ زُهَيْرِ بْنِ مُحَمَّدٍ، عَنْ عَبِيدَةَ، عَنْ عَائِشَةَ، قَالَتْ: "كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحْرِمَاتٌ، فَمَاتَ رَسُولُ اللَّهِ ﷺ وَهُنَّ فِي القُرْآنِ فَسَحَتْهَا قُرَيْشٌ وَقَالُوا: تَرَكْنَاهُ قُرْبَ الْمَوْتِ".
-
-
-A narration from **Aisha** (رضي الله عنها) states:
-"In what was revealed of the Qur'an, there were ten verses about breastfeeding, which made it obligatory to breastfeed an adult ten times to make marriage unlawful between them. But when the Messenger of Allah (ﷺ) passed away, the verses were erased and forgotten, and the people left them behind."
-
-Source:
-- **Sunan Ibn Majah** (Hadith 1944), Book of Breastfeeding (Kitab al-Rada’a)
-- **Sahih Muslim** and **Sunan Abu Dawood** also contain similar narrations related to this incident.
-
-Chain of Narrators:
-1. **Abu Bakr** and **Abdur-Rahman ibn Asbagh**  
-2. **Yahya ibn Yahya al-Tamimi**  
-3. **Hushaym ibn Bashir**  
-4. **Hussein ibn Abdul-Rahman**  
-5. **Zuhair ibn Muhammad**  
-6. **Ubaydah**  
-7. **Aisha bint Abi Bakr** (رضي الله عنها)
-
-### Verse of Breastfeeding:
-This hadith relates to the **Verse of Breastfeeding** (Ayat al-Rada'a), which was reportedly revealed to allow adult women to nurse men (under specific circumstances) for marriage to become unlawful between them. According to some narrations, **ten sucklings** would be required to establish this prohibition. The incident of the **goat eating the verses** suggests that these verses were accidentally lost when a goat ate a piece of paper containing the verses. 
-
-The authenticity and interpretation of this narration have been widely debated. Some scholars reject the literal meaning of this story and interpret it in a symbolic or allegorical manner, asserting that the verses may not have been part of the final text of the Qur'an. Others question its authenticity, as there is no widespread documentation in early Islamic texts, and it’s considered **"weak"** or **"fabricated"** in some scholarly circles.
-
-### Criticism and Scholarly Debate:
-1. **Authenticity of the Hadith**: 
-   Many scholars reject the authenticity of this hadith, especially because it suggests that parts of the Qur'an were lost or erased after the death of the Prophet Muhammad (ﷺ). The idea of a goat eating the Qur'anic text is seen by some scholars as an unfounded or exaggerated narration, not consistent with the sanctity and preservation of the Qur'an.
-   
-2. **Theological Implications**: 
-   The idea that verses could be lost or eaten by a goat is problematic for many Muslims because the Qur'an is believed to have been preserved in its entirety, as explicitly mentioned in the Qur'an itself (e.g., Surah Al-Hijr 15:9).
-
-3. **Different Versions**:  
-   There are different versions of this narration in Islamic sources. Some narrations do not mention the goat but rather describe the verses of breastfeeding as being abrogated by the death of the Prophet (ﷺ).
-
-### 1. **Sahih Muslim** (Hadith 3011):
-In **Sahih Muslim**, there is a narration that mentions the verses of breastfeeding (ayat al-rada'a) being revealed, but later forgotten or abrogated. However, this version does **not** include the specific detail about the goat eating the verses, but it is still discussed in the context of the verses being lost or removed.
-
-**Arabic**:
-عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ:  
-"كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ عَشْرُ رَضَعَاتٍ مُحْرِمَاتٍ فَفَجَعَ رَسُولُ اللَّهِ ﷺ وَمَاتَ وَهُنَّ فِي القُرْآنِ".
-
-**English Translation**:
-Aisha (رضي الله عنها) said:  
-"In what was revealed from the Qur'an, there were ten sucklings that made it unlawful (for a man and woman to marry) and the Messenger of Allah (ﷺ) passed away and they were in the Qur'an."
-
-### 2. **Sunan Abu Dawood** (Hadith 3734):
-This narration from **Sunan Abu Dawood** also mentions the verses related to breastfeeding and their subsequent disappearance or erasure after the death of the Prophet Muhammad (ﷺ). It doesn't mention the goat directly, but it is another variant of the narrative.
-
-عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ:  
-"مَا كَانَ فِي القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحْرِمَاتٍ فَفَرَّجَتْهُ قُرَيْشٌ وَمَا أُبْتِدِئَتْهُ فِي أَيَّامٍ أُخْرَى".
-
-
-Aisha (رضي الله عنها) said:  
-"In the Qur'an, there were ten sucklings that made marriage unlawful, and the people of Quraysh removed it after the death of the Prophet."
-
-### 3. **Sunan Ibn Majah** (Hadith 1944):
-This version, which has already been mentioned, is the most well-known narration that involves the story of the **goat eating the Qur'anic verses**.
-
-عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قَالَتْ:  
-"كانَ فِي مَا أُنزلَ مِنَ القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحْرِمَاتٌ، فَمَاتَ رَسُولُ اللَّهِ ﷺ وَهُنَّ فِي القُرْآنِ فَسَحَتْهَا قُرَيْشٌ وَقَالُوا: تَرَكْنَاهُ قُرْبَ الْمَوْتِ."
-
-
-Aisha (رضي الله عنها) said:  
-"In what was revealed of the Qur'an, there were ten verses about breastfeeding, which made it obligatory to breastfeed an adult ten times to make marriage unlawful between them. But when the Messenger of Allah (ﷺ) passed away, the verses were erased and forgotten, and the people left them behind."
-
-### 4. **Al-Tabari’s Tafsir** (Tafsir al-Tabari, Volume 8, Page 49):
-The well-known historian and mufassir, **al-Tabari**, also mentions this story in his **Tafsir** (exegesis), where he narrates a similar incident in which the verses about adult breastfeeding were reportedly revealed but then lost, possibly due to the death of the Prophet (ﷺ) or other factors. The Tafsir itself doesn't mention the goat, but it aligns with the idea of these verses being erased or forgotten.
-
-
-عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قالت:  
-"كان في القرآن عشر رضعات يحرمن، فمات رسول الله ﷺ وهن في القرآن."
-
-
-Aisha (رضي الله عنها) said:  
-"In the Qur'an, there were ten sucklings that made it unlawful, and the Prophet (ﷺ) passed away and they were in the Qur'an."
-
-### 5. **Musnad Ahmad ibn Hanbal** (Hadith 23525):
-A narration from **Musnad Ahmad** contains a variant about the breastfeeding verses, where it is mentioned that the verses were known, but they were lost over time. The story of the goat is not mentioned here either, but the loss of the verses is noted.
-
-
-عَنْ عَائِشَةَ رَضِيَ اللَّهُ عَنْهَا قالت:  
-"كان في القرآن عشر رضعات يحرمن، فمات رسول الله ﷺ وهن في القرآن."
-
-
-Aisha (رضي الله عنها) said:  
-"In the Qur'an, there were ten sucklings that made it unlawful, and the Prophet (ﷺ) passed away and they were in the Qur'an."
+The hadith about a goat eating verses of the Qur'an related to breastfeeding (**Ayat al-Rada'a**) has been a topic of controversy. It suggests that certain verses, which prescribed ten sucklings to make marriage unlawful, were lost when a goat ate the written text. This narration is primarily found in **Sunan Ibn Majah** (Hadith 1944) and attributed to **Aisha (رضي الله عنها)**. It also appears in other narrations, though without the goat reference. Scholars debate the authenticity of these claims.
 
 ---
 
-### Analysis of Variants:
-These variants generally present the same basic idea that there were verses in the Qur'an related to breastfeeding an adult, but over time, these verses were lost or erased. The **specific detail of a goat eating the verses** appears more prominently in **Sunan Ibn Majah** and is absent in the other collections, such as **Sahih Muslim**, **Sunan Abu Dawood**, and **Musnad Ahmad**.
+#### Hadith from **Sunan Ibn Majah** (1944):
 
-### Critical Reception:
-- **Authenticity**: Many scholars, particularly in the Sunni tradition, have criticized the narration involving the goat for its weak or fabricated nature, as it suggests that part of the Qur'an was lost, which contradicts the widely held belief in the preservation of the entire Qur'an as mentioned in the Qur'an itself (Surah Al-Hijr, 15:9).
+Arabic:  
+**حَدَّثَنَا أَبُو بَكْرٍ وَعَبْدُ الرَّحْمَنِ ابْنُ أَصْبَغٍ، قَالا حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، حَدَّثَنَا هُشَيْمٌ، عَنْ حُسَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ زُهَيْرِ بْنِ مُحَمَّدٍ، عَنْ عُبَيْدَةَ، عَنْ عَائِشَةَ، قَالَتْ: "كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحَرِّمَاتٌ، فَمَاتَ رَسُولُ اللَّهِ ﷺ وَهُنَّ فِي مَا يُقْرَأُ مِنَ الْقُرْآنِ، فَسَحَتْهَا قُرَيْشٌ وَقَالُوا: تَرَكْنَاهُ قُرْبَ الْمَوْتِ".**
+
+Translation:  
+Aisha (رضي الله عنها) said:  
+"There was revealed in the Qur'an (a verse): Ten breastfeedings make marriage unlawful. Then the Prophet (ﷺ) passed away, and these verses were still recited in the Qur'an. Later, these verses were erased and forgotten."
+
+---
+
+### Similar Narrations in Other Sources
+
+1. **Sahih Muslim (Hadith 3011)**:  
+Arabic:  
+**كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحَرِّمَاتٌ، ثُمَّ نُسِخَ إِلَى خَمْسِ رَضَعَاتٍ.**  
+
+Translation:  
+"There was revealed in the Qur'an: Ten sucklings make marriage unlawful, then it was abrogated to five sucklings."
+
+2. **Sunan Abu Dawood (Hadith 3734)**:  
+Arabic:  
+**كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ عَشْرُ رَضَعَاتٍ مُحَرِّمَاتٌ، فَمَاتَ رَسُولُ اللَّهِ ﷺ وَهُنَّ فِي مَا يُقْرَأُ مِنَ الْقُرْآنِ.**  
+
+Translation:  
+"There was revealed in the Qur'an: Ten sucklings make marriage unlawful. Then the Prophet (ﷺ) passed away, and these verses were still recited in the Qur'an."
+
+---
+
+### Scholarly Analysis
+
+1. **Weakness in Authenticity**:  
+   Many scholars consider the narration involving the goat eating the verses weak or fabricated, as it implies that portions of the Qur'an were lost, which contradicts the Qur'an's promise of preservation:  
+   > **"Indeed, it is We who sent down the Qur'an, and indeed, We will be its guardian."** *(Surah Al-Hijr 15:9)*  
+
+2. **Abrogation and Forgetfulness**:  
+   Some narrations suggest these verses were abrogated during the Prophet's lifetime or deliberately forgotten as part of divine will, not due to external events like a goat eating the text.
+
+3. **Theological Concerns**:  
+   Claims of lost verses challenge the belief in the Qur'an's complete preservation. This is why many scholars reject the literal interpretation of such narrations or their authenticity altogether.
+
 
 > _{{< qurantext chapter="15" verse=9 en="true" >}}_
 
 
-## False Stoning Law and the Abrogation of Recitation 
+Here’s a more concise version of your text:
 
-1. **Hadith of Umar ibn al-Khattab (Sahih Bukhari 6829):**  
-عَنْ عُمَرَ بْنِ الْخَطَّابِ، قَالَ:  
-إِنَّ اللَّهَ بَعَثَ مُحَمَّدًا ﷺ بِالْحَقِّ، وَأَنْزَلَ عَلَيْهِ الْكِتَابَ، فَكَانَ فِيمَا أُنْزِلَ عَلَيْهِ آيَةُ الرَّجْمِ، فَقَرَأْنَاهَا وَعَقَلْنَاهَا، وَوَعَيْنَاهَا، رَجَمَ رَسُولُ اللَّهِ ﷺ وَرَجَمْنَا بَعْدَهُ، فَأَخْشَى إِنْ طَالَ بِالنَّاسِ زَمَانٌ أَنْ يَقُولَ قَائِلٌ: وَاللَّهِ مَا نَجِدُ آيَةَ الرَّجْمِ فِي كِتَابِ اللَّهِ، فَيَضِلُّوا بِتَرْكِ فَرِيضَةٍ أَنْزَلَهَا اللَّهُ، وَالرَّجْمُ فِي كِتَابِ اللَّهِ حَقٌّ عَلَى مَنْ زَنَى، إِذَا أُحْصِنَ مِنَ الرِّجَالِ وَالنِّسَاءِ، إِذَا قَامَتِ الْبَيِّنَةُ، أَوْ كَانَ الْحَبَلُ، أَوِ الِاعْتِرَافُ.  
+---
 
+## **False Stoning Law and the Abrogation of Recitation**  
 
+### **Hadith of Umar ibn al-Khattab (Sahih Bukhari 6829)**  
 Umar ibn al-Khattab said:  
-“Indeed, Allah sent Muhammad ﷺ with the truth and revealed the Book to him. Among what was revealed to him was the verse of stoning, which we recited, understood, and memorized. The Messenger of Allah ﷺ implemented stoning, and so did we after him. I fear that if time goes on, someone will say, ‘By Allah, we do not find the verse of stoning in the Book of Allah,’ and thus they will go astray by abandoning an obligation Allah revealed. Stoning is the truth in the Book of Allah for those who commit adultery when they are married, whether male or female, provided there is evidence, pregnancy, or confession.”
+“Allah sent Muhammad ﷺ with the truth and revealed the Book to him, including the verse of stoning, which we recited, understood, and implemented. The Messenger of Allah ﷺ practiced stoning, and so did we. I fear a time when people will say, ‘We do not find the verse of stoning in the Book of Allah,’ leading them astray by abandoning an obligation Allah revealed. Stoning is the truth for married adulterers when proven by evidence, pregnancy, or confession.”
 
+---
 
+### **Sunni Opinion on the Abrogation of Stoning Verse Recitation**  
+Some Sunni scholars explain this as **naskh tilawah** (abrogation of recitation but retention of the ruling). They argue the verse was part of the Qur'an but later removed from recitation, while its ruling remains valid.  
 
-### Sunni Opinion on the Abrogation of Stoning verse recitation
-I disagree with this openion but there are some sunni scholors who described the abrogation as following.  In my openion, if the stoning was done, then it was done for the Yahud and Nasara or the people of the book according to their own law.
+1. **Criticism of Naskh Tilawah**:  
+   - There’s no evidence from hadith that the Prophet ﷺ abrogated any Qur'anic verse.  
+   - It’s implausible to forget a memorized verse, as such a verse would still be widely known.  
 
-1. **Nature of Abrogation:**  
-   - Sunni scholars classify this as **naskh tilawah** (abrogation of recitation but retention of the ruling). This means the verse about stoning was part of the Qur'an initially but was later removed in recitation, while its ruling remains enforceable in Islamic law.
-
-2. **Evidence in Islamic Law:**  
-   - The ruling of stoning is upheld through multiple authentic Hadiths that describe the Prophet ﷺ implementing it.
-   - Scholars like **Imam Al-Shafi'i, Imam Malik, and Imam Ahmad** uphold stoning for married adulterers based on these narrations and consensus (ijma).
-
-3. **Conclusion in Sunni Thought:**  
-   - The stoning ruling remains a valid part of Islamic law, supported by the Sunnah and the consensus of early Islamic scholars, even though the verse is not included in the Qur'an.
+2. **Ruling in Islamic Law**:  
+   - Stoning is upheld through authentic hadiths describing the Prophet ﷺ implementing it.  
+   - Scholars like **Imam Al-Shafi'i, Imam Malik, and Imam Ahmad** maintain it is enforceable, though it may have applied only to Jews and Christians, aligning with their scriptures and laws.  
