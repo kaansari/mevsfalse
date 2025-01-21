@@ -20,7 +20,7 @@ Abrogation (naskh) in the Qur'an refers to the concept that some verses were rev
 Shah Waliullah Dehlavi, a prominent Islamic scholar and reformer from India, contributed extensively to Islamic thought and jurisprudence. He is known for his works on tafsir, fiqh (Islamic jurisprudence), and hadith, and he also made significant contributions to the understanding of **abrogation** (naskh) in the Qur'an. Abrogation refers to the idea that some verses of the Qur'an were revealed to be applicable for a certain period or context but were later replaced or superseded by other verses.<cite>[^1]</cite>
 [^1]:Al-Fawz al-Kabir fi Usul al-Tafsir - Shah Waliullah Dehalvi [Link](/pdf/Fauzkabir.pdf)
 
-Shah Waliullah Dehlavi's view on abrogation in the Qur'an is found in his work [Al-Fawz al-Kabir fi Usul al-Tafsir](/pdf/Fauzkabir.pdf). In this work, he discusses various verses that are considered abrogated, and his views are generally based on classical Islamic scholarship, especially the interpretations of earlier scholars.
+Shah Waliullah Dehlavi's view on abrogation in the Qur'an is found in his work [Al-Fawz al-Kabir fi Usul al-Tafsir](./pdf/Fauzkabir.pdf). In this work, he discusses various verses that are considered abrogated, and his views are generally based on classical Islamic scholarship, especially the interpretations of earlier scholars.
 
 Below is a list of some of the key **abrogated verses** (verses related to **naskh**) according to Shah Waliullah Dehlavi:
 
