@@ -18,7 +18,7 @@ Quran sometimes throws in words from other languages. Let's take words like Darh
 Allah's playing 4D chess, going for "Darahim" in the Yousuf story instead of "Dinar." Why? "Dinar" would be all about coins, but "Darahim," straight from Sanskrit, brings that fixed trade value vibe. Allah, dropping knowledge ahead of the coin game that only kicked in during Justinian's time around 541 CE. Peep the Turkish museum pic – that coin truth! 
 
 
-![Landscape](img/../coin.jpg)
+![Landscape](../img/articles/coin.jpg)
 
 
 And there's more! "Dirham" not only links to trade values but also possibly points to Ibrahim's origin - the Indus Valley Civilization. Mohenjo-daro, a candidate for the people of 3aad, even created Iram, those water-running structures made of Imad, which are basically pillar-like wells.

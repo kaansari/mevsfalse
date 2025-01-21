@@ -68,7 +68,7 @@ Allah says in the Quran that the story of Eesa is from Ghaib (3:44), meaning it 
 
 In Quran 3:49, there is a clear reference when Zakaria (Angel) says to his mother how he will be like one prepared by the birds, and then he will become a bird. Of course, Allah knew that he would be preserved in history with the bird symbol, and that's why Allah mentioned him in such a way for people to recognize.
 
-![Landscape](/img/articles/bird.jpg)
+![Landscape](../img/articles/bird.jpg)
 
 ## Esa in the Quran
 
@@ -109,13 +109,13 @@ Before the son was born, Zakariah's enemies became brazen and took drastic measu
 
 > _This detial is in the quran 2:72_
 
-![Landscape](/img/articles/dismembered.jpeg)
+![Landscape](../img/articles/dismembered.jpeg)
 
 Musa, Mariam's brother, received the news and promptly ordered them to release her from imprisonment. In disbelief, they retorted, "Are you joking with us?" making it clear that they pretended not to understand his command.
 
 Musa sternly responded, "Do you think I am ignorant of your crimes? You take me for an idiot?" He pointed out that the woman he was referring to was neither too old nor too young, making it clear that he was well aware of their deceitful actions.
 
-![Landscape](/img/articles/cow.jpg)
+![Landscape](../img/articles/cow.jpg)
 
 They couldn't believe that Musa was aware of their actions. In an attempt to confirm, they asked about the woman's complexion. Musa confidently replied, "She is fair-skinned, the kind of woman you admire." His response indicated a profound knowledge that left them astounded.
 
