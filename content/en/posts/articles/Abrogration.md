@@ -14,15 +14,14 @@ url: abrogation.html
 ---
 
 ## Introduction
-Abrogation (naskh) in the Qur'an refers to the concept that some verses were revealed with specific rulings that were later replaced or superseded by other verses. The idea is that earlier verses, while initially applicable, were later abrogated by new revelations that provided clearer or more comprehensive rulings.
+There is no abbrigation in the quran and in my openion all the verses of the quran are valid and they do not abrogate other verses.
 
-
-Shah Waliullah Dehlavi, a prominent Islamic scholar and reformer from India, contributed extensively to Islamic thought and jurisprudence. He is known for his works on tafsir, fiqh (Islamic jurisprudence), and hadith, and he also made significant contributions to the understanding of **abrogation** (naskh) in the Qur'an. Abrogation refers to the idea that some verses of the Qur'an were revealed to be applicable for a certain period or context but were later replaced or superseded by other verses.<cite>[^1]</cite>
+However, Shah Waliullah Dehlavi, a prominent Islamic scholar and reformer from India, contributed extensively to Islamic thought and jurisprudence. He is known for his works on tafsir, fiqh (Islamic jurisprudence), and hadith, and he also made significant contributions to the understanding of **abrogation** (naskh) in the Qur'an. Abrogation refers to the idea that some verses of the Qur'an were revealed to be applicable for a certain period or context but were later replaced or superseded by other verses.<cite>[^1]</cite>
 [^1]:Al-Fawz al-Kabir fi Usul al-Tafsir - Shah Waliullah Dehalvi [Link](/pdf/Fauzkabir.pdf)
 
-Shah Waliullah Dehlavi's view on abrogation in the Qur'an is found in his work [Al-Fawz al-Kabir fi Usul al-Tafsir](./pdf/Fauzkabir.pdf). In this work, he discusses various verses that are considered abrogated, and his views are generally based on classical Islamic scholarship, especially the interpretations of earlier scholars.
 
-Below is a list of some of the key **abrogated verses** (verses related to **naskh**) according to Shah Waliullah Dehlavi:
+
+Below is a list of some of the key **abrogated verses** (verses related to **naskh**) according to Shah Waliullah Dehlavi, I will also give me reasons why these verses are not aborgated.
 
 
 ### 1. Surah Al-Baqarah (2:180) - The Inheritance and Will
@@ -34,6 +33,8 @@ This verse of Will and Inhetance was later abarigated
 The detailed rulings regarding inheritance are clarified and expanded upon in **Surah An-Nisa (4:7)** and **Surah An-Nisa (4:12)**, where the inheritance shares are clearly outlined.
 > _{{< qurantext chapter="4" verse=7 en="true" >}}_
 
+#### Reason: The wasia is haq of the mutaqin and you cannot take the haqq away from the ones who are close to you. Just as the death is haqq, and it will reach you no matter what, Wasia/Will is also haqq on you.
+
 
 ### 2. Surah Al-Anfal (8:65 → 8:66): Reduction in Combat Ratio 
 - **Original Command (8:65):** Muslims were required to fight enemies at a ratio of 1:10.
@@ -43,6 +44,8 @@ The detailed rulings regarding inheritance are clarified and expanded upon in **
 - **Abrogation (8:66):** The ratio was reduced to 1:2 due to their limited strength and Allah’s mercy.
 
 > _{{< qurantext chapter="8" verse=66 en="true" >}}_
+
+#### Reason:  The reduction in the ratio is based on the peoples condition and if they are week then the ratio is reduced.
 
 
 ### 3. Surah Al-Ahzab (33:52 → 33:50): Flexibility in Marital Relations of the Prophet
@@ -54,7 +57,7 @@ The detailed rulings regarding inheritance are clarified and expanded upon in **
 
 > _{{< qurantext chapter="33" verse=52 en="true" >}}_
 
-Note: I disagree with him on this abrogation, and I think these two verses read just fine according to their placement.
+### Reason: I disagree with him on this abrogation, and I think these two verses read just fine according to their placement.
 
 
 ### 4. Surah Al-Mujadila (58:12 → 58:13): Cancellation of Charity Requirement 
@@ -65,6 +68,8 @@ Note: I disagree with him on this abrogation, and I think these two verses read 
 - **Abrogation (58:13):** The charity requirement was lifted to ease the burden on believers, as many found it difficult to comply.
 
 > _{{< qurantext chapter="58" verse=13 en="true" >}}_
+
+#### Reason:  TBD.
 
 
 ### 5. Surah Al-Muzzammil (73:1-4 → 73:20): Reduction in Night Prayer Obligation  
@@ -81,6 +86,8 @@ Note: I disagree with him on this abrogation, and I think these two verses read 
 - **Abrogation (73:20):** The obligation was reduced, allowing flexibility based on individual ability, recognizing the challenges faced by the believers.
 
 > _{{< qurantext chapter="73" verse=20 en="true" >}}_
+
+#### Reason:  In the beginning you have to work hard but Allah allows some people to make qiyam for according to their ability.
 
 ## False Claims of Abrogated or Missing Verses
 
