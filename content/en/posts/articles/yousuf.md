@@ -24,7 +24,7 @@ You can find him in the Egyptian methology with the name USeb (Geb).
 
 His name is Yusuf in the Quran. The alongation of U in his name leads us to his Egyptian name.  In the story of Yusuf, he envisions himself as a bird on his head, and this is connected to his name, U Seb (Geb), which is why you might notice a quail chick on his head.
 
-![Landscape](/img/articles/hieroglyphic-u.jpeg)
+![Landscape](../img/articles/hieroglyphic-u.jpeg)
 
 >The quail chick is used for the long "U" sound in words like rule, pull and duel, and names like Una.
  — <cite>Hieroglyph[^1]</cite>
@@ -53,7 +53,7 @@ The Quran contains verses (12:43-48) detailing the communication between the kin
 In the Quran, it's mentioned that Yusuf not only helped the kingdom become stable but also successful. There's an interesting part where the Quran talks about a coded problem involving seven cows. Archaeologists found a similar story in 1922 in the burial chambers of Egyptian kings, called <cite>Book of the Heavenly Cow. [^4]</cite>
 [^4]: These episodes are characterized by Egyptologists as a type of story known as the Distant Goddess and they always involve a transformation of some sort. [Link](https://www.worldhistory.org/Book_of_the_Heavenly_Cow/).
 
-![Landscape](/img/articles/7cows.jpg)
+![Landscape](../img/articles/7cows.jpg)
 
 This myth was related to the kingdom's troubles and used the cow to represent important ideas. The Quran mentioning this, even before we knew about it from historical findings, shows how unique and special it is. This is why the Quran advises us not to rely on other books like the Bible or Torah.
 
