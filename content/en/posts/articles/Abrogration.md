@@ -13,152 +13,99 @@ thumbnail :
 url: abrogation.html
 ---
 
-## Introduction
-There is no abbrigation in the quran and in my openion all the verses of the quran are valid and they do not abrogate other verses.
+### Abrogation in the Qur'an: A Clearer Perspective
 
-However, Shah Waliullah Dehlavi, a prominent Islamic scholar and reformer from India, contributed extensively to Islamic thought and jurisprudence. He is known for his works on tafsir, fiqh (Islamic jurisprudence), and hadith, and he also made significant contributions to the understanding of **abrogation** (naskh) in the Qur'an. Abrogation refers to the idea that some verses of the Qur'an were revealed to be applicable for a certain period or context but were later replaced or superseded by other verses.<cite>[^1]</cite>
+The concept of abrogation (naskh) in the Qur’an suggests that certain verses were revealed for a specific context but were later replaced by others. However, I firmly believe there is no abrogation in the Qur’an; all verses remain valid and harmonious in their meanings. Below are examples often cited as abrogated, along with my reasoning that they are not.
+
+---
+
+1. **Surah Al-Baqarah (2:180) - Inheritance and Will**  
+   Critics claim this verse, which enjoins a will for parents and relatives, is abrogated by detailed inheritance laws in Surah An-Nisa (4:7, 4:12).  
+   **Reason**: The concept of a will (wasia) complements the inheritance laws. It ensures fairness beyond fixed shares, fulfilling a moral obligation toward loved ones.  
+
+2. **Surah Al-Anfal (8:65 → 8:66) - Combat Ratios**  
+   Initially, believers were commanded to fight at a 1:10 ratio, later reduced to 1:2.  
+   **Reason**: This is not abrogation but a contextual adjustment based on believers’ strength. Both verses coexist to reflect Allah’s wisdom in addressing evolving circumstances.
+
+3. **Surah Al-Ahzab (33:50 → 33:52) - Marital Permissions for the Prophet ﷺ**  
+   These verses discuss marital allowances and restrictions for the Prophet ﷺ. Some argue verse 52 cancels the previous allowances.  
+   **Reason**: Both verses align without conflict. They emphasize fairness and balance in personal matters, tailored to the Prophet’s unique responsibilities.
+
+4. **Surah Al-Mujadila (58:12 → 58:13) - Charity Before Consultation**  
+   The command to give charity before private discussions with the Prophet ﷺ was later eased.  
+   **Reason**: This is not abrogation but a facilitation for those struggling financially. Both commands address different capacities of believers.
+
+5. **Surah Al-Muzzammil (73:1-4 → 73:20) - Night Prayer Obligation**  
+   The initial obligation for extensive night prayers was relaxed in verse 20.  
+   **Reason**: This adjustment reflects Allah’s mercy, allowing believers to pray according to their ability. Both instructions remain relevant for varying levels of devotion.
+
+---
+
+### False Claims of Abrogated or Missing Verses  
+The controversial claim that certain verses were “lost” (e.g., the breastfeeding verse allegedly eaten by a goat) lacks strong evidence. Such narrations, primarily found in secondary sources, are weak and do not undermine the Qur’an's completeness and preservation.
+
+---
+
+Here is a concise and clear version of the article emphasizing that there is no abrogation in the Qur’an:
+
+---
+
+**No Abrogation in the Qur’an**  
+
+There is no abrogation (naskh) in the Qur’an. All its verses remain valid and harmonious. When chapter 2 mentions abrogation, it refers to the replacement of previous scriptures with the superior guidance of the Qur’an, not the cancellation of Qur’anic verses themselves.
+
+### Examples Often Misinterpreted as Abrogation .<cite>[^1]</cite>
 [^1]:Al-Fawz al-Kabir fi Usul al-Tafsir - Shah Waliullah Dehalvi [Link](/pdf/Fauzkabir.pdf)
 
+1. **Inheritance and Will (Surah Al-Baqarah 2:180 → Surah An-Nisa 4:7, 4:12):**  
+   The detailed inheritance laws in Surah An-Nisa complement the will command in Surah Al-Baqarah, ensuring fairness without negating the principle of writing a will.  
 
+   > _{{< qurantext chapter="2" verse=180 en="true" >}}_
 
-Below is a list of some of the key **abrogated verses** (verses related to **naskh**) according to Shah Waliullah Dehlavi, I will also give me reasons why these verses are not aborgated.
+2. **Combat Ratio (Surah Al-Anfal 8:65 → 8:66):**  
+   The shift from a 1:10 to a 1:2 ratio in battle reflects Allah’s mercy and the believers’ capacity. This is a contextual easing, not an abrogation.  
 
+   > _{{< qurantext chapter="8" verse=65 en="true" >}}_
 
-### 1. Surah Al-Baqarah (2:180) - The Inheritance and Will
+3. **Marital Rules for the Prophet ﷺ (Surah Al-Ahzab 33:50 → 33:52):**  
+   Both verses address different aspects of the Prophet’s ﷺ personal life, offering flexibility without contradiction. 
 
-This verse of Will and Inhetance was later abarigated
+   > _{{< qurantext chapter="33" verse=50 en="true" >}}_ 
 
-> _{{< qurantext chapter="2" verse=180 en="true" >}}_
-
-The detailed rulings regarding inheritance are clarified and expanded upon in **Surah An-Nisa (4:7)** and **Surah An-Nisa (4:12)**, where the inheritance shares are clearly outlined.
-> _{{< qurantext chapter="4" verse=7 en="true" >}}_
-
-#### Reason: The wasia is haq of the mutaqin and you cannot take the haqq away from the ones who are close to you. Just as the death is haqq, and it will reach you no matter what, Wasia/Will is also haqq on you.
-
-
-### 2. Surah Al-Anfal (8:65 → 8:66): Reduction in Combat Ratio 
-- **Original Command (8:65):** Muslims were required to fight enemies at a ratio of 1:10.
-
-> _{{< qurantext chapter="8" verse=65 en="true" >}}_
-
-- **Abrogation (8:66):** The ratio was reduced to 1:2 due to their limited strength and Allah’s mercy.
-
-> _{{< qurantext chapter="8" verse=66 en="true" >}}_
-
-#### Reason:  The reduction in the ratio is based on the peoples condition and if they are week then the ratio is reduced.
-
-
-### 3. Surah Al-Ahzab (33:52 → 33:50): Flexibility in Marital Relations of the Prophet
-- **Original Command (33:50):** The Prophet ﷺ was permitted to marry specific categories of women.  
-
-> _{{< qurantext chapter="33" verse=50 en="true" >}}_
-
-- **Abrogation (33:52):** The Prophet ﷺ was given flexibility to defer or choose his time with his wives, ensuring ease and fairness in his personal matters.
-
-> _{{< qurantext chapter="33" verse=52 en="true" >}}_
-
-### Reason: I disagree with him on this abrogation, and I think these two verses read just fine according to their placement.
-
-
-### 4. Surah Al-Mujadila (58:12 → 58:13): Cancellation of Charity Requirement 
-- **Original Command (58:12):** Muslims were required to give charity before privately consulting the Prophet ﷺ.
+4. **Charity Before Consulting the Prophet ﷺ (Surah Al-Mujadila 58:12 → 58:13):**  
+   The lifting of the charity requirement alleviated a burden on believers. This demonstrates practical adjustments, not abrogation.  
 
 > _{{< qurantext chapter="58" verse=12 en="true" >}}_
 
-- **Abrogation (58:13):** The charity requirement was lifted to ease the burden on believers, as many found it difficult to comply.
+5. **Night Prayer Obligation (Surah Al-Muzzammil 73:1-4 → 73:20):**  
+   The reduction in prayer time acknowledges believers’ challenges, allowing individual flexibility while maintaining the essence of devotion.  
 
-> _{{< qurantext chapter="58" verse=13 en="true" >}}_
+   > _{{< qurantext chapter="73" verse=1 en="true" >}}_
 
-#### Reason:  TBD.
+### Addressing Misconceptions  
+
+Claims such as the "goat-eating verses" narrative, found in some hadith, lack authenticity and contradict the Qur’an’s preservation. The Qur’an is complete, without loss or alteration, as promised by Allah in Surah Al-Hijr (15:9): *“Indeed, We have sent down the Qur’an, and indeed, We will be its guardian.”*  
 
 
-### 5. Surah Al-Muzzammil (73:1-4 → 73:20): Reduction in Night Prayer Obligation  
-- **Original Command (73:1-4):** The Prophet ﷺ and his followers were commanded to spend most of the night in prayer. 
-
-> _{{< qurantext chapter="73" verse=1 en="true" >}}_
-
-> _{{< qurantext chapter="73" verse=2 en="true" >}}_
-
-> _{{< qurantext chapter="73" verse=3 en="true" >}}_
-
-> _{{< qurantext chapter="73" verse=4 en="true" >}}_
-
-- **Abrogation (73:20):** The obligation was reduced, allowing flexibility based on individual ability, recognizing the challenges faced by the believers.
-
-> _{{< qurantext chapter="73" verse=20 en="true" >}}_
-
-#### Reason:  In the beginning you have to work hard but Allah allows some people to make qiyam for according to their ability.
-
-## False Claims of Abrogated or Missing Verses
-
-The hadith about a goat eating verses of the Qur'an related to breastfeeding (**Ayat al-Rada'a**) has been a topic of controversy. It suggests that certain verses, which prescribed ten sucklings to make marriage unlawful, were lost when a goat ate the written text. This narration is primarily found in **Sunan Ibn Majah** (Hadith 1944) and attributed to **Aisha (رضي الله عنها)**. It also appears in other narrations, though without the goat reference. Scholars debate the authenticity of these claims.
+Here is the revised text in the requested concise format:
 
 ---
 
-#### Hadith from **Sunan Ibn Majah** (1944):
-
-Arabic:  
-**حَدَّثَنَا أَبُو بَكْرٍ وَعَبْدُ الرَّحْمَنِ ابْنُ أَصْبَغٍ، قَالا حَدَّثَنَا يَحْيَى بْنُ يَحْيَى التَّمِيمِيُّ، حَدَّثَنَا هُشَيْمٌ، عَنْ حُسَيْنِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ زُهَيْرِ بْنِ مُحَمَّدٍ، عَنْ عُبَيْدَةَ، عَنْ عَائِشَةَ، قَالَتْ: "كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحَرِّمَاتٌ، فَمَاتَ رَسُولُ اللَّهِ ﷺ وَهُنَّ فِي مَا يُقْرَأُ مِنَ الْقُرْآنِ، فَسَحَتْهَا قُرَيْشٌ وَقَالُوا: تَرَكْنَاهُ قُرْبَ الْمَوْتِ".**
-
-Translation:  
-Aisha (رضي الله عنها) said:  
-"There was revealed in the Qur'an (a verse): Ten breastfeedings make marriage unlawful. Then the Prophet (ﷺ) passed away, and these verses were still recited in the Qur'an. Later, these verses were erased and forgotten."
-
----
-
-### Similar Narrations in Other Sources
-
-1. **Sahih Muslim (Hadith 3011)**:  
-Arabic:  
-**كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ: عَشْرُ رَضَعَاتٍ مُحَرِّمَاتٌ، ثُمَّ نُسِخَ إِلَى خَمْسِ رَضَعَاتٍ.**  
-
-Translation:  
-"There was revealed in the Qur'an: Ten sucklings make marriage unlawful, then it was abrogated to five sucklings."
-
-2. **Sunan Abu Dawood (Hadith 3734)**:  
-Arabic:  
-**كَانَ فِي مَا أُنْزِلَ مِنَ القُرْآنِ عَشْرُ رَضَعَاتٍ مُحَرِّمَاتٌ، فَمَاتَ رَسُولُ اللَّهِ ﷺ وَهُنَّ فِي مَا يُقْرَأُ مِنَ الْقُرْآنِ.**  
-
-Translation:  
-"There was revealed in the Qur'an: Ten sucklings make marriage unlawful. Then the Prophet (ﷺ) passed away, and these verses were still recited in the Qur'an."
-
----
-
-### Scholarly Analysis
-
-1. **Weakness in Authenticity**:  
-   Many scholars consider the narration involving the goat eating the verses weak or fabricated, as it implies that portions of the Qur'an were lost, which contradicts the Qur'an's promise of preservation:  
-   > **"Indeed, it is We who sent down the Qur'an, and indeed, We will be its guardian."** *(Surah Al-Hijr 15:9)*  
-
-2. **Abrogation and Forgetfulness**:  
-   Some narrations suggest these verses were abrogated during the Prophet's lifetime or deliberately forgotten as part of divine will, not due to external events like a goat eating the text.
-
-3. **Theological Concerns**:  
-   Claims of lost verses challenge the belief in the Qur'an's complete preservation. This is why many scholars reject the literal interpretation of such narrations or their authenticity altogether.
-
-
-> _{{< qurantext chapter="15" verse=9 en="true" >}}_
-
-
-Here’s a more concise version of your text:
-
----
-
-## **False Stoning Law and the Abrogation of Recitation**  
+## **False Stoning Law and the Abrogation of Recitation**
 
 ### **Hadith of Umar ibn al-Khattab (Sahih Bukhari 6829)**  
-Umar ibn al-Khattab said:  
-“Allah sent Muhammad ﷺ with the truth and revealed the Book to him, including the verse of stoning, which we recited, understood, and implemented. The Messenger of Allah ﷺ practiced stoning, and so did we. I fear a time when people will say, ‘We do not find the verse of stoning in the Book of Allah,’ leading them astray by abandoning an obligation Allah revealed. Stoning is the truth for married adulterers when proven by evidence, pregnancy, or confession.”
+Umar ibn al-Khattab stated:  
+“Allah sent Muhammad ﷺ with the truth and revealed the Book to him, including the verse of stoning, which we recited and implemented. The Messenger of Allah ﷺ practiced stoning, and so did we. I fear people may later abandon this obligation, claiming the verse is absent in the Qur'an. Stoning is the truth for married adulterers proven by evidence, pregnancy, or confession.”
 
 ---
 
 ### **Sunni Opinion on the Abrogation of Stoning Verse Recitation**  
-Some Sunni scholars explain this as **naskh tilawah** (abrogation of recitation but retention of the ruling). They argue the verse was part of the Qur'an but later removed from recitation, while its ruling remains valid.  
+**Naskh Tilawah** (abrogation of recitation, retention of ruling) is cited by some Sunni scholars:  
+- **Criticism**:  
+  - No clear hadith confirms the Prophet ﷺ abrogated a Qur'anic verse.  
+  - Forgotten verses would still be widely known if recited earlier.  
 
-1. **Criticism of Naskh Tilawah**:  
-   - There’s no evidence from hadith that the Prophet ﷺ abrogated any Qur'anic verse.  
-   - It’s implausible to forget a memorized verse, as such a verse would still be widely known.  
+- **Ruling in Law**:  
+  - Stoning is validated through authentic hadiths showing the Prophet ﷺ implemented it.  
+  - Scholars like **Imam Al-Shafi'i, Imam Malik, and Imam Ahmad** uphold its enforcement, possibly specific to Jews and Christians under their laws.  
 
-2. **Ruling in Islamic Law**:  
-   - Stoning is upheld through authentic hadiths describing the Prophet ﷺ implementing it.  
-   - Scholars like **Imam Al-Shafi'i, Imam Malik, and Imam Ahmad** maintain it is enforceable, though it may have applied only to Jews and Christians, aligning with their scriptures and laws.  
