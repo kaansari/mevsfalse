@@ -6,6 +6,6 @@
 {{- $jsonData := getJSON $jsonPath -}}
 {{- with index $jsonData $chapter -}}
 {{ with index (where . ".verse" $verseIndex) 0 }}
-{{ .chapter }}:{{ .verse }} {{ .text }} {{ if $translate}}{{.en}}{{end }}
+{{ .text }} {{ if $translate}}{{.en}} {{ .chapter }}:{{ .verse }}   {{end }}
 {{ end }}
 {{- end }}
