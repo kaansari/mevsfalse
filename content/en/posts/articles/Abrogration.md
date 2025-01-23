@@ -53,8 +53,8 @@ Claims such as the "goat-eating verses" narrative, found in some hadith, lack au
 
 ## **False Stoning Law and the Abrogation of Recitation**
 
-### **Hadith of Umar ibn al-Khattab (Sahih Bukhari 6829)**  
-Umar ibn al-Khattab stated:  
+ 
+Umar ibn al-Khattab (Sahih Bukhari 6829) stated:  
 “Allah sent Muhammad ﷺ with the truth and revealed the Book to him, including the verse of stoning, which we recited and implemented. The Messenger of Allah ﷺ practiced stoning, and so did we. I fear people may later abandon this obligation, claiming the verse is absent in the Qur'an. Stoning is the truth for married adulterers proven by evidence, pregnancy, or confession.”
 
 ---
