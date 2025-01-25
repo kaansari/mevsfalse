@@ -48,6 +48,10 @@ disqusShortname = 'mevsfalse'
     url = '/'
     weight = 10
   [[Languages.en-gb.menu.main]]
+    name = 'Quran'
+    url = 'https://kaansari.github.io/originalquran/'
+    weight = 50
+  [[Languages.en-gb.menu.main]]
     pageRef="posts"
     name = 'Posts'
     url = '/posts/'

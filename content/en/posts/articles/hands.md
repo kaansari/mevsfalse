@@ -21,16 +21,17 @@ Qur'anic verses emphasizing that Allah is not like His creation and does not hav
 In **Surah Al-An'am (6:19)**, the word *shay’* ("thing") refers to Allah as the greatest witness. While *shay’* can mean "thing," here it emphasizes Allah's existence and role as the ultimate, incomparable witness, not a physical being. It’s a way to convey profound truths in human language while affirming His transcendence.
 
 
-1. **Surah Ash-Shura (42:11)**  
+1. **Surah Al-Ikhlas (112:1-4)**  
+   *"Say: He is Allah, UNDEFINEABLE; Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent."*
+
+    > _{{< qurantext chapter="112" verse=1 en="true" >}}_
+
+2. **Surah Ash-Shura (42:11)**  
    *"There is nothing like unto Him, and He is the All-Hearing, the All-Seeing."*
 
  > _{{< qurantext chapter="42" verse=11 en="true" >}}_
 
 
-2. **Surah Al-Ikhlas (112:1-4)**  
-   *"Say: He is Allah, undefineable; Allah, the Eternal Refuge. He neither begets nor is born, nor is there to Him any equivalent."*
-
-    > _{{< qurantext chapter="112" verse=1 en="true" >}}_
 
 3. **Surah An-Nahl (16:74)**  
    *"So do not attribute to Allah equals while you know [that there is nothing comparable to Him]."*
