@@ -93,9 +93,9 @@ disqusShortname = 'mevsfalse'
 [Languages.en-gb.params.author]
   avatar = "avatar.jpg" # put the file in assets folder; also ensure that image has same height and width
   # Note: image is not rendered if the resource(avatar image) is not found. No error is displayed.
-  intro = "MeVsFalse"
+  intro = "@MeVsFalse"
   name = "MeVsFalse"
-  description = "You've arrived in my zone! It's all about my words, epic Quran translations, and would love to hear from you. Got questions? Fire away and let's discuss thoughts together!"
+  description = "Contact me on Telegram @MeVsFalse.  This is MeVsFalse from Tiktok.  I lost my account but you can view my work here.  Dont forget to view the classic Quran!"
 
 # Allow to override webmanifest options
 [Languages.en-gb.params.webmanifest]
@@ -112,11 +112,11 @@ disqusShortname = 'mevsfalse'
 
 [[params.socialIcons]]
 name = "tiktok"
-url = "https://tiktok.com/@MeVsFalse"
+url = "https://tiktok.com/@MeVsKafirs"
 
 [[params.socialIcons]]
-name = "twitter"
-url = "https://twitter.com/"
+name = "telegram"
+url = "@mevsfalse"
 
 [[params.socialIcons]]
 name = "youtube"
